@@ -18,8 +18,3 @@ The iOS mobile application, moodmaps, allows a user to find things to do (dining
 - A map is displayed with pins showing various locations that the user can go to, uniquely compiled for how they are feeling
 - By tapping the upper right corner, the user can toggle the list view of the results displayed on the map
 - Tapping on a list view entry takes the user to the corresponding Yelp business page
-
-## Selected Screenshots
-
-<img src="/images/moodscreen.png" width="250" align="center"><img src="/images/mapscreen.png" width="250" align="center">
-<img src="/images/resultsscreen.png" width="250" align="center"><img src="/images/yelpscreen.png" width="250" align="center">
