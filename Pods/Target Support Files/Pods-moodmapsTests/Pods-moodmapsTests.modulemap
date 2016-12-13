@@ -1,0 +1,6 @@
+framework module Pods_moodmapsTests {
+  umbrella header "Pods-moodmapsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

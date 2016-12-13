@@ -1,0 +1,6 @@
+framework module Pods_moodmaps {
+  umbrella header "Pods-moodmaps-umbrella.h"
+
+  export *
+  module * { export * }
+}
