@@ -5,7 +5,7 @@
 <img src="/images/launchscreen.png" width="250" align="center">
 
 ## Purpose
-The iOS mobile application, moodmaps, allows a user to find things to do (dining, attractions, etc.) in their community based on their current mood.
+moodmaps allows a user to find things to do in their community based on their current mood.
 
 ## Features
 - Can detect user location to show things to do in the user's current location
@@ -15,6 +15,6 @@ The iOS mobile application, moodmaps, allows a user to find things to do (dining
 
 ## Control Flow
 - The user is prompted to choose from the pre-set options depending on how they are feeling
-- A map is displayed with pins showing various locations that the user can go to, uniquely compiled for how they are feeling
+- A map is displayed with pins showing various locations, uniquely compiled for the user's mood
 - By tapping the upper right corner, the user can toggle the list view of the results displayed on the map
 - Tapping on a list view entry takes the user to the corresponding Yelp business page
