@@ -2,7 +2,7 @@
 
 ###### Final Project for the iOS Decal, Fall 2016
 
-![Launch Screen](/images/launchscreen.png)
+<img src="/images/launchscreen.png" width="632" align="center">
 
 ## Purpose
 The iOS mobile application, moodmaps, allows a user to find things to do (dining, attractions, etc.) in their community based on their current mood.
@@ -21,5 +21,5 @@ The iOS mobile application, moodmaps, allows a user to find things to do (dining
 
 ## Selected Screenshots
 
-![Mood Screen](/images/moodscreen.png) ![Map Screen](/images/mapscreen.png)
-![Results Screen](/images/resultsscreen.png) ![Yelp Screen](/images/yelpscreen.png)
+<img src="/images/moodscreen.png" width="632" align="center"><img src="/images/mapscreen.png" width="632" align="center">
+<img src="/images/resultsscreen.png" width="632" align="center"><img src="/images/yelpscreen.png" width="632" align="center">
